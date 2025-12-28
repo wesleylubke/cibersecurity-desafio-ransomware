@@ -22,6 +22,6 @@ O comportamento foi projetado para **substituir o arquivo original** após a ope
 
 ```text
 .
-├── encrypter_replace_pt.py   # Criptografa e substitui o arquivo original
-├── decrypter_replace_pt.py   # Descriptografa e restaura o arquivo
+├── encrypter.py   # Criptografa e substitui o arquivo original
+├── decrypter.py   # Descriptografa e restaura o arquivo
 └── README.md
